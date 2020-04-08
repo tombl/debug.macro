@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "removeComments": true,
+    "rootDir": "runtime",
+    "strict": true,
+    "target": "es2018"
+  },
+  "include": ["runtime/**/*"]
+}

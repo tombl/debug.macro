@@ -1,0 +1,4 @@
+macro-dist
+node_modules
+runtime-dist
+tsconfig.macro.tsbuildinfo

@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "incremental": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "./macro-dist",
+    "removeComments": true,
+    "rootDir": "./macro",
+    "strict": true,
+    "target": "es2018"
+  },
+  "include": ["macro/**/*"]
+}
